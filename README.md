@@ -1,11 +1,6 @@
 # Description
 - Collection of scripts that wrap around the ffmpeg windows executable.
 --------------------
-# Contact Info
-Author: Thomas Schlitt
-Date: 11/17/2023
-Email: tschlitt123@gmail.com
---------------------
 # Installation:
 1. Download/clone this repo to your local machine
 2. Run "INSTALL.cmd" to append the ffmpeg\bin folder to your user-path
