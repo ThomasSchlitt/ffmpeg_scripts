@@ -16,5 +16,5 @@ if %errorlevel% equ 0 (
 )
 setlocal enabledelayedexpansion
 set "scriptDir=%~dp0"
-powershell.exe -ExecutionPolicy Bypass -File "!scriptDir!path_modification.ps1"
+powershell.exe -ExecutionPolicy Bypass -File "!scriptDir!scripts\path_install.ps1"
 pause
